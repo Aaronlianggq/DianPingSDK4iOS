@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'DianPingSDK' target in the 'DianPingSDK' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
